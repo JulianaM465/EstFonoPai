@@ -31,9 +31,19 @@
             <h2>Curso Fonética Perceptiva: 
                 a avaliação da qualidade vocal por meio do roteiro VPAS-PB 
                 - Profa. Zuleica Camargo</h2>
-            <p>O curso é dividido em 5 aulas</p>
-            <p>Resumo básico do curso</p>
-            <p></p>
+            <p>Bem vindos ao mini-curso "Fonética perceptiva: a  avaliação da 
+                qualidade vocal por meio do roteiro VPAS-PB".</p>
+            <p>Este curso tem como objetivo abordar a avaliação da qualidade 
+                vocal sob a perspectiva fonética, a partir do roteiro Vocal 
+                Profile Analysis Scheme para o Português Brasileiro (VPAS-PB).</p>
+            <p>Serão trabalhados os princípios para avaliação da qualidade 
+                vocal com motivação fonética. Além disso, os alunos vivenciarão
+                as possibilidades de avaliação dos ajustes laríngeos, 
+                supralaríngeos e de tensão da qualidade vocal, de forma a 
+                tornarem-se juízes capacitados para avaliações de 
+                qualidade vocal, tanto para finalidades de descrição de línguas,
+                quanto de caracterização de distúrbios e de usos 
+                expressivos da voz.</p>
         </section>
         
         <section id="right">
